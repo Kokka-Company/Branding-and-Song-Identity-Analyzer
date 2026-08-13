@@ -1,0 +1,27 @@
+{
+  "artist": "Example Artist",
+  "audio_files": [
+    "/absolute/path/to/track1.mp3",
+    "/absolute/path/to/track2.mp3"
+  ],
+  "lyrics": {
+    "Track 1 Title": "First-verse lyrics here...\nSecond verse...",
+    "Track 2 Title": "Lyrics for the second track..."
+  },
+  "metadata": {
+    "label": "Independent",
+    "release_years": [2024, 2025],
+    "platform_tags": ["bedroom pop", "alt-R&B"],
+    "monthly_listeners": 412000,
+    "top_markets": ["US", "UK", "MX"],
+    "collaborators": ["producer X", "feature Y"]
+  },
+  "music_notes": "Two-track EP, recorded in a home studio. Artist has flagged 'late-night driving' as the intended listening context.",
+  "images": [
+    {"path": "/absolute/path/to/press_2024_01.jpg", "caption": "Press shot, 2024 album cycle"},
+    {"path": "/absolute/path/to/cover_art.jpg", "caption": "EP cover art"},
+    {"path": "/absolute/path/to/insta_grid_01.jpg", "caption": "Instagram grid, mid-2024"}
+  ],
+  "persona_no tes": "Artist self-describes as 'post-internet diaristic.' Avoids interviews; communicates almost exclusively through visuals.",
+  "output_dir": "outputs/example-artist"
+}
